@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Muzaffer Cikay
 
-<!--
-**cikay/cikay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer with 4+ years of experience building high-performance solutions across e-commerce, SOAR, and messaging platforms.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm working on backend systems with Python, Django, FastAPI, and modern cloud technologies
+- 🌱 Always learning and improving my skills in concurrent programming and cloud architecture
+- 🤖 I am currently learning machine learning
+- 📫 Reach me at: muzaffercky@gmail.com
+- 🏠 Based in Turkey
+
+## 💻 Tech Stack
+- **Backend**: Python, Django, FastAPI, Celery, AsyncIO
+- **API Design**: REST APIs, GraphQL
+- **Databases**: MongoDB, PostgreSQL, ElasticSearch
+- **DevOps**: Docker, Kubernetes, Git, Github Actions
+- **Data Science**: Machine Learning, Neural Networks
+
+## 🛠️ Professional Experience
+
+### Akinon | Backend Developer (09/2023 - 01/2025)
+Enhanced commerce project through documentation, test coverage, bug fixes, and feature implementation. Led Python 3 migration and integrated payment/cargo gateways.
+- **Tech used:** Python, Django, Celery, PostgreSQL, ElasticSearch, Docker
+
+### Popleads | Backend Developer (05/2022 - 09/2023)
+Developed Imperum, a SOAR platform from scratch with automated security operations, dynamic playbooks, rule engine, and event normalization systems.
+- **Tech used:** Python, FastAPI, Mongoengine, Celery, MongoDB, AsyncIO, Docker
+
+### Connexease | Software Engineer (05/2021 - 02/2022)
+Integrated Instagram API into a social media management platform, centralizing message distribution between agents.
+- **Tech used:** Python, JavaScript, Django, Celery, React.js
+
+## 🌟 Open Source
+
+### Projects I've Created
+- [Modelresolvers](https://github.com/cikay/Modelresolvers)
+
+## 🔬 Personal Projects
+
+### Language Detection Neural Network
+Developed a custom neural network-based language detection system capable of identifying multiple languages from text input with 90% accuracy.
+- **Tech used:** Python, Backpropagation, Stochastic Gradient Descent (SGD)
+
+## 📈 GitHub Stats
+
+![Muzaffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikay&show_icons=true&theme=dark)
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffercky/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11885384/muzaffer)
+
+## 🎓 Education
+- **Marmara University** - Mechatronics Engineering (2015-2020)
+
+---
+
+*"Building robust, scalable backend solutions one line of code at a time."*
