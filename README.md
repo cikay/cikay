@@ -25,7 +25,7 @@ Backend developer with 4+ years of experience building high-performance solution
 ## 🌟 Open Source
 
 ### Projects I've Created
-- [Modelresolvers](https://github.com/cikay/Modelresolvers)
+- [modelresolvers](https://github.com/cikay/modelresolvers)
 
 ## 🔬 Personal Projects
 
