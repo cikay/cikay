@@ -46,6 +46,7 @@ Integrated Instagram API into a social media management platform, centralizing m
 
 ### Language Detection Neural Network
 Developed a custom neural network-based language detection system capable of identifying multiple languages from text input with 90% accuracy.
+You can check out the source code [here](https://github.com/cikay/language-detection)
 - **Tech used:** Python, Backpropagation, Stochastic Gradient Descent (SGD)
 
 ## 📈 GitHub Stats
