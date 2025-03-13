@@ -5,7 +5,6 @@ Backend developer with 4+ years of experience building high-performance solution
 ## 🚀 About Me
 
 - 🔭 I'm working on backend systems with Python, Django, FastAPI, and modern cloud technologies
-- 🌱 Always learning and improving my skills in concurrent programming and cloud architecture
 - 🤖 I am currently learning machine learning
 - ✍️ I like writing, you may check my Medium account below
 - 📫 Reach me at: muzaffercky@gmail.com
