@@ -7,6 +7,7 @@ Backend developer with 4+ years of experience building high-performance solution
 - 🔭 I'm working on backend systems with Python, Django, FastAPI, and modern cloud technologies
 - 🌱 Always learning and improving my skills in concurrent programming and cloud architecture
 - 🤖 I am currently learning machine learning
+- ✍️ I like writing, check my Medium account below
 - 📫 Reach me at: muzaffercky@gmail.com
 - 🏠 Based in Turkey
 
@@ -16,6 +17,11 @@ Backend developer with 4+ years of experience building high-performance solution
 - **Databases**: MongoDB, PostgreSQL, ElasticSearch
 - **DevOps**: Docker, Kubernetes, Git, Github Actions
 - **Data Science**: Machine Learning, Neural Networks
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffercky/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11885384/muzaffer)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muzaffercky)
 
 ## 🛠️ Professional Experience
 
@@ -45,10 +51,6 @@ Developed a custom neural network-based language detection system capable of ide
 ## 📈 GitHub Stats
 
 ![Muzaffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikay&show_icons=true&theme=dark)
-
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffercky/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11885384/muzaffer)
 
 ## 🎓 Education
 - **Marmara University** - Mechatronics Engineering (2015-2020)
