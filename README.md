@@ -23,20 +23,6 @@ Backend developer with 4+ years of experience building high-performance solution
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11885384/muzaffer)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muzaffercky)
 
-## 🛠️ Professional Experience
-
-### Akinon | Backend Developer (09/2023 - 01/2025)
-Enhanced commerce project through documentation, test coverage, bug fixes, and feature implementation. Led Python 3 migration and integrated payment/cargo gateways.
-- **Tech used:** Python, Django, Celery, PostgreSQL, ElasticSearch, Docker
-
-### Popleads | Backend Developer (05/2022 - 09/2023)
-Developed Imperum, a SOAR platform from scratch with automated security operations, dynamic playbooks, rule engine, and event normalization systems.
-- **Tech used:** Python, FastAPI, Mongoengine, Celery, MongoDB, AsyncIO, Docker
-
-### Connexease | Software Engineer (05/2021 - 02/2022)
-Integrated Instagram API into a social media management platform, centralizing message distribution between agents.
-- **Tech used:** Python, JavaScript, Django, Celery, React.js
-
 ## 🌟 Open Source
 
 ### Projects I've Created
@@ -52,6 +38,20 @@ You can check out the source code [here](https://github.com/cikay/language-detec
 ## 📈 GitHub Stats
 
 ![Muzaffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikay&show_icons=true&theme=dark)
+
+## 🛠️ Professional Experience
+
+### Akinon | Backend Developer (09/2023 - 01/2025)
+Enhanced commerce project through documentation, test coverage, bug fixes, and feature implementation. Led Python 3 migration and integrated payment/cargo gateways.
+- **Tech used:** Python, Django, Celery, PostgreSQL, ElasticSearch, Docker
+
+### Popleads | Backend Developer (05/2022 - 09/2023)
+Developed Imperum, a SOAR platform from scratch with automated security operations, dynamic playbooks, rule engine, and event normalization systems.
+- **Tech used:** Python, FastAPI, Mongoengine, Celery, MongoDB, AsyncIO, Docker
+
+### Connexease | Software Engineer (05/2021 - 02/2022)
+Integrated Instagram API into a social media management platform, centralizing message distribution between agents.
+- **Tech used:** Python, JavaScript, Django, Celery, React.js
 
 ## 🎓 Education
 - **Marmara University** - Mechatronics Engineering (2015-2020)
