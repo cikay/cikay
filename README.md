@@ -56,5 +56,3 @@ Integrated Instagram API into a social media management platform, centralizing m
 - **Marmara University** - Mechatronics Engineering (2015-2020)
 
 ---
-
-*"Building robust, scalable backend solutions one line of code at a time."*
