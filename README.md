@@ -34,10 +34,6 @@ Developed a custom neural network-based language detection system capable of ide
 You can check out the source code [here](https://github.com/cikay/language-detection)
 - **Tech used:** Python, Backpropagation, Stochastic Gradient Descent (SGD)
 
-## 📈 GitHub Stats
-
-![Muzaffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikay&show_icons=true&theme=dark)
-
 ## 🛠️ Professional Experience
 
 ### Akinon | Backend Developer (09/2023 - 01/2025)
