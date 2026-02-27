@@ -35,6 +35,9 @@ You can check out the source code [here](https://github.com/cikay/language-detec
 
 ## 🛠️ Professional Experience
 
+### Goodfintech | Backend Developer (04/2025 - present)
+- **Tech used:** Python, Django, Celery, PostgreSQL, ElasticSearch, Docker
+
 ### Akinon | Backend Developer (09/2023 - 01/2025)
 Enhanced commerce project through documentation, test coverage, bug fixes, and feature implementation. Led Python 3 migration and integrated payment/cargo gateways.
 - **Tech used:** Python, Django, Celery, PostgreSQL, ElasticSearch, Docker
