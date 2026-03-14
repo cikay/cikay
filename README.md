@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muzaffer Cıkay
 
-Backend developer with 4+ years of experience building high-performance solutions across e-commerce, SOAR, and messaging platforms.
+Backend developer with 4+ years of experience building high-performance solutions across KYC, e-commerce, SOAR, and messaging platforms.
 
 
 ## 💻 Tech Stack
