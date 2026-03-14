@@ -11,4 +11,4 @@ Backend developer with 4+ years of experience building high-performance solution
 - **Data Science**: Machine Learning, Neural Networks
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
